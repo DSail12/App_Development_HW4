@@ -3,8 +3,7 @@
 //  HW4_
 //
 //  Created by Eugene Zvyagin on 07.07.2023.
-//
-
+// 
 struct FriendResponse: Decodable {
     let response: Response
 }
